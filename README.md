@@ -6,7 +6,7 @@
 
 ```
 src/
-├── uptodown.java: main file to k-anonymize the trajectory dataset based on the hierarchical grid index
+├── uptodown.java: main file to k-anonymize trajectories based on the hierarchical grid index
 ├── beans/: package for the data structure
 ├── utils/: package for the util tools
 ```
